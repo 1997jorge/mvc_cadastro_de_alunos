@@ -22,4 +22,4 @@ View: Fala Controller ! O usuário acabou de pedir para acessar o Facebook ! Peg
 
 Fonte de pesquisa: https://tableless.com.br/mvc-afinal-e-o-que/
 
-Esse projeto foi feito usando como base o seguinte site https://docs.microsoft.com/pt-br/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-5.0&tabs=visual-studio
+Esse projeto foi feito usando como base o seguinte site: https://docs.microsoft.com/pt-br/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-5.0&tabs=visual-studio
